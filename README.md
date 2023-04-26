@@ -1,4 +1,4 @@
-# harmonica-songs
+# Harmonica Songs
 
 ## About this Project
 
