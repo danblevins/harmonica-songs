@@ -10,6 +10,7 @@ I decided to learn how to play the chromatic, key of c harmonica in 2023. Howeve
 - <a href="#married-life" style="color: #d4d4d4;">Married Life</a>
 - <a href="#cant-help-falling-in-love" style="color: #d4d4d4;">Can't Help Falling in Love</a>
 - <a href="#concerning-hobbits" style="color: #d4d4d4;">Concerning Hobbits</a>
+- <a href="#indiana-jones" style="color: #d4d4d4;">Indiana Jones Theme Song</a>
 
 <br>
 <br>
@@ -60,3 +61,16 @@ I decided to learn how to play the chromatic, key of c harmonica in 2023. Howeve
 4 -4 5 6 5 -4 4
 <br>
 5 6 -6 -6 6 5 -4
+
+<br>
+
+**<a id="indiana-jones"></a>Indiana Jones Theme Song**
+<br>
+<br>
+5 -5 6 7 -4 5 -5
+<br>
+6 -6 -7 -9 -6 -7 7 -8 8
+<br>
+5 -5 6 7 7 -8 8 -9
+<br>
+6 6 8 -8 6 8 -8 6 -9 -9 -9 8 -8 7
