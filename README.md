@@ -2,7 +2,7 @@
 
 ## About this Project
 
-As a new year's resolution for 2023, I decided to learn how to play the chromatic, key of c harmonica. However, I got tired of screenshotting all of the notes onto my phone. So I'm using this as a list of songs (along with their tabs) that I've practiced playing.
+As a new year's resolution for 2023, I decided to learn how to play the chromatic, key of c harmonica. However, I got tired of screenshotting all of the notes onto my phone. So I'm using this as a list of songs (along with their tabs) that I've practiced playing. To learn more, read my [Medium article](https://danblevins.medium.com/how-im-learning-to-play-the-harmonica-e30db3a2607e).
 
 <br>
 
